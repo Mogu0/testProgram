@@ -1,2 +1,2 @@
 # testProgram
-QT贪吃蛇
+QT贪吃蛇，VS贪吃蛇
